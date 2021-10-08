@@ -1,3 +1,3 @@
 # git-excercise
 
-Hello world! It is a good day to have a good day!
+Hello world! It is a good day to have a good day! Yes, indeed, it is.
